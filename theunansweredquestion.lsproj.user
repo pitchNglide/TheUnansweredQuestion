@@ -1,0 +1,902 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1619643572995279:393950",
+                "1620082749673007:1925848",
+                "1646096304721151:980247",
+                "1646096316358668:1003199",
+                "1646096324817205:1019998",
+                "1646096331585286:1037150",
+                "1646096337079301:1055292",
+                "1646096532955939:1253093",
+                "1646096532958190:1253474",
+                "1646096532960574:1253855",
+                "1646096532963238:1254236",
+                "1646096532965790:1254617",
+                "1646097794689663:77247",
+                "1646097794691921:77628",
+                "1646097794694330:78009",
+                "1646097794696525:78390",
+                "1646097794698744:78771",
+                "1646097850485730:242582",
+                "1646097865769643:277481",
+                "1646097876090231:312854",
+                "1646097884538403:349157",
+                "1646097892829650:386590",
+                "1646097901003315:425169",
+                "1646097926667041:486555",
+                "1646097926669167:486936",
+                "1646097926671393:487321",
+                "1646097998075090:775925",
+                "1646097998077060:776306",
+                "1646097998079099:776687",
+                "1646097998081146:777068",
+                "1646097998083260:777449",
+                "1646098064865905:1053750",
+                "1646098064867887:1054131",
+                "1646098064869882:1054512",
+                "1646098064872113:1054893",
+                "1646098064874536:1055274",
+                "1646100306883004:6148983",
+                "1646100339705712:6384809",
+                "1646100364245402:6447497",
+                "1646100376983039:6599468",
+                "1681294855090723:1979222",
+                "1681389336329611:176345",
+                "1681389392549162:179162",
+                "1681638208326237:76905",
+                "1682387339280423:1989211"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1681294590994556:1885767"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Audio Analyzer"
+                ],
+                [
+                    "Audio Analyzer",
+                    "Scripts"
+                ],
+                [
+                    "Audio Analyzer",
+                    "Scripts",
+                    "AudioAnalyzerAmpLogger"
+                ],
+                [
+                    "Audio Analyzer",
+                    "Scripts",
+                    "AudioAnalyzerHzLogger"
+                ],
+                [
+                    "Audio Analyzer",
+                    "Scripts",
+                    "AudioSpectrogram"
+                ],
+                [
+                    "Audio Analyzer",
+                    "Scripts",
+                    "Behavior"
+                ],
+                [
+                    "Audio Analyzer",
+                    "Scripts",
+                    "PeriodicUpdate"
+                ],
+                [
+                    "Audio From Microphone"
+                ],
+                [
+                    "Default"
+                ],
+                [
+                    "Default",
+                    "Device Camera Texture"
+                ],
+                [
+                    "Face Mesh Resources"
+                ],
+                [
+                    "Face Mesh Resources",
+                    "Default Face Mesh Example"
+                ],
+                [
+                    "Face Mesh Resources",
+                    "Default Face Mesh Example",
+                    "Face Mesh Default"
+                ],
+                [
+                    "Face Mesh Resources",
+                    "Face Meshes"
+                ],
+                [
+                    "Face Mesh Resources",
+                    "Face Meshes",
+                    "face_mesh_geometry"
+                ],
+                [
+                    "Fonts"
+                ],
+                [
+                    "Fonts",
+                    "LeagueSpartan-Regular"
+                ],
+                [
+                    "Fonts",
+                    "LeagueSpartan-Thin"
+                ],
+                [
+                    "Frosted Glass",
+                    "Material",
+                    "Frosted Glass [EDIT_ME]"
+                ],
+                [
+                    "Frosted Glass",
+                    "Material",
+                    "Frosted Glass [EDIT_ME] 2"
+                ],
+                [
+                    "Frosted Glass",
+                    "Texture"
+                ],
+                [
+                    "Frosted Glass",
+                    "Texture",
+                    "Screen Texture"
+                ],
+                [
+                    "Jello"
+                ],
+                [
+                    "Materials"
+                ],
+                [
+                    "Materials",
+                    "Icons",
+                    "animal"
+                ],
+                [
+                    "Materials",
+                    "Icons",
+                    "keyboard"
+                ],
+                [
+                    "Materials",
+                    "Icons",
+                    "music"
+                ],
+                [
+                    "Materials",
+                    "Icons",
+                    "shout"
+                ],
+                [
+                    "Materials",
+                    "Icons",
+                    "speech"
+                ],
+                [
+                    "Materials",
+                    "Icons",
+                    "whisper"
+                ],
+                [
+                    "Occluder"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "A_fllatkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "A_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "B_flatkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "B_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "D_flatkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "D_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "E_flatkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "E_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "F_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "G_flatkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "G_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "c_majorkey"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "topTEEThandG"
+                ],
+                [
+                    "OctaveTeether",
+                    "Meshes",
+                    "zbottomTeethandG"
+                ],
+                [
+                    "OctaveTeether",
+                    "OctaveTeether"
+                ],
+                [
+                    "OnlyTeeth0202"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "A_fllatkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "A_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "B_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "B_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "D_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "D_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "E_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "E_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "F_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "G_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "G_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "c_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "topTEEThandG"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "Meshes",
+                    "zbottomTeethandG"
+                ],
+                [
+                    "OnlyTeeth0202",
+                    "OnlyTeeth0202"
+                ],
+                [
+                    "OnlyTeeth0202 2"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "A_fllatkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "A_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "B_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "B_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "D_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "D_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "E_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "E_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "F_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "G_flatkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "G_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "c_majorkey"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "topTEEThandG"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "Meshes",
+                    "zbottomTeethandG"
+                ],
+                [
+                    "OnlyTeeth0202 2",
+                    "OnlyTeeth0202"
+                ],
+                [
+                    "Opacity Textures",
+                    "default_face_mesh"
+                ],
+                [
+                    "Script"
+                ],
+                [
+                    "Skins Versus"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Body Tracking Asset"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "Empty Material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "face_tattoo_material [EDIT_BASE_TEXTURE]"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "left_arm_tattoo_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "left_fore_arm_tattoo_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "neck_tattoo_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "right_arm_tattoo_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "right_fore_arm_tattoo_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "spine2_tattoo_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Mip Maps Enabled",
+                    "tattysFaceZeroComp0001"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Segmentation Materials",
+                    "portrait_background_segmentation_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Materials",
+                    "Segmentation Materials",
+                    "upper_garment_segmentation_material"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Meshes",
+                    "Face Mesh"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Meshes",
+                    "tatsTest",
+                    "Meshes"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Meshes",
+                    "tatsTest",
+                    "Meshes",
+                    "MagicEraser_230425_005200"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Meshes",
+                    "tatsTest",
+                    "Meshes",
+                    "MagicEraser_230425_005333"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Meshes",
+                    "tatsTest",
+                    "tatsTest"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Script"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Script",
+                    "Readme"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "Segmentation Texture",
+                    "Portrait Background Segmentation"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "Segmentation Texture",
+                    "Upper Garment Segmentation"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "face_tattoo [EDIT_IN_IMAGE_EDITING_TOOL]"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "left_fore_arm_tattoo"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "left_right_arm_tattoo"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "neck_tattoo"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "right_fore_arm_tattoo"
+                ],
+                [
+                    "Tattoo Segmentation Resources",
+                    "Textures",
+                    "spine2_tattoo"
+                ],
+                [
+                    "TattooSegmentation__PUT_UNDER_MAIN_CAM"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Base"
+                ],
+                [
+                    "Textures",
+                    "Echopark"
+                ],
+                [
+                    "Textures",
+                    "White"
+                ],
+                [
+                    "Textures",
+                    "animal_icon"
+                ],
+                [
+                    "Textures",
+                    "icon_container"
+                ],
+                [
+                    "Textures",
+                    "keyboard_icon"
+                ],
+                [
+                    "Textures",
+                    "listening_anim"
+                ],
+                [
+                    "Textures",
+                    "music_icon"
+                ],
+                [
+                    "Textures",
+                    "shout_icon"
+                ],
+                [
+                    "Textures",
+                    "speech_icon"
+                ],
+                [
+                    "Textures",
+                    "whisper_icon"
+                ],
+                [
+                    "tatsTest"
+                ],
+                [
+                    "tatsTest",
+                    "Meshes"
+                ],
+                [
+                    "tatsTest",
+                    "Meshes",
+                    "MagicEraser_230425_005200"
+                ],
+                [
+                    "tatsTest",
+                    "Meshes",
+                    "MagicEraser_230425_005333"
+                ],
+                [
+                    "tatsTest",
+                    "tatsTest"
+                ],
+                [
+                    "tattysFaceBet0001"
+                ],
+                [
+                    "white"
+                ],
+                [
+                    "white 2"
+                ],
+                [
+                    "white 3"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1517446348227994:84813",
+                "1618192232881202:7831734",
+                "1618195299849735:8453362",
+                "1618195300013902:8453435",
+                "1618195300014533:8453437",
+                "1618195350618828:8482265",
+                "1619142012806943:549309",
+                "1619553033179166:2672263",
+                "1619553033181099:2672311",
+                "1619553033181365:2672313",
+                "1619553033211676:2672531",
+                "1619553209700070:2756781",
+                "1619553210439375:2760612",
+                "1619553306828562:2808984",
+                "1619555102652461:3523768",
+                "1619555103158279:3527271",
+                "1619555103192825:3527429",
+                "1619643572837230:393839",
+                "1619643572838031:393841",
+                "1619643572998854:394285",
+                "1619643572999747:394287",
+                "1619643573013149:394670",
+                "1619643573014078:394672",
+                "1619666287758311:127745",
+                "1619715827380376:249315",
+                "1619715827664398:249434",
+                "1619716172637624:411071",
+                "1619717975551255:527841",
+                "1619819413361333:2576055",
+                "1619819945768964:3057568",
+                "1619820129196017:3150553",
+                "1619822251467825:4749787",
+                "1620083450506652:2127471",
+                "1620083503729139:2172920",
+                "1620177046829566:274488",
+                "1620234301485920:1791896",
+                "1620234301486401:1791900",
+                "1620234301486829:1791904",
+                "1620234301487243:1791907",
+                "1620234301487703:1791909",
+                "1620234301489230:1791911",
+                "1620234301489660:1791913",
+                "1620234301793440:1792034",
+                "1620234301794062:1792036",
+                "1620234301794489:1792038",
+                "1620234301794929:1792040",
+                "1620234301795334:1792042",
+                "1620234301795891:1792044",
+                "1620234301825110:1792094",
+                "1620234301825525:1792096",
+                "1620234301825996:1792098",
+                "1620234301850249:1792135",
+                "1620234301850805:1792137",
+                "1620234301852559:1792151",
+                "1620234301854243:1792165",
+                "1620234301855913:1792179",
+                "1620238341431360:3019546",
+                "1620241001059856:3785364",
+                "1620241972670781:4324620",
+                "1645818416518154:22153210",
+                "1646080370667412:1680269",
+                "1681294594151935:1887785",
+                "1682391357592432:2730644"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1681294587733830:1884705": "/Users/josephhastings/Xcrosswalk/OctaveTeether.fbx",
+            "1681294590506400:1885451": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590545727:1885471": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590582159:1885491": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590615323:1885511": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590647576:1885531": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590680123:1885551": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590712683:1885571": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590745267:1885591": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590777173:1885611": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590809386:1885631": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590840671:1885651": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590871684:1885671": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590904553:1885691": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590936961:1885711": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyMesh.mesh",
+            "1681294590973167:1885733": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyJpg.jpg",
+            "1681294590987870:1885748": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyJpg.jpg",
+            "1681294591377271:1885888": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle/materials/textures/white.png",
+            "1681294659563717:1908223": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyJpg.jpg",
+            "1681294659574584:1908242": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioeZLZtxPKTexY//system//emergencyFiles/emergencyJpg.jpg",
+            "1681562869584473:4691": "/Users/josephhastings/Audio Classification/Public/Audio Analyzer/Scripts/AudioAnalyzerHelper.js",
+            "1681562869598144:4699": "/Users/josephhastings/Audio Classification/Public/Audio Analyzer/Scripts/AudioAnalyzer.js",
+            "1681562869604467:4707": "/Users/josephhastings/Audio Classification/Public/Audio Analyzer/Scripts/AudioLogHelper.js",
+            "1681562869607821:4715": "/Users/josephhastings/Audio Classification/Public/Audio Analyzer/Scripts/AudioAnalyzerLogger.js",
+            "1681583145547964:292702": "/Users/josephhastings/AudioClasso/Public/Audio Classification/Scripts/AudioSpectrogram.js",
+            "1681588506171156:507831": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioVUPjKAHkRotf//system//emergencyFiles/emergencyJs.js",
+            "1681627144546816:27817": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiowexejSuiTviA//system//emergencyFiles/emergencyJs.js",
+            "1681636963455665:46107": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiowexejSuiTviA//system//emergencyFiles/emergencyJs.js",
+            "1681637235140206:47244": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle//Presets/Scripts/BehaviorScript.js",
+            "1682372633622399:643152": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJs.js",
+            "1682388130831358:2008104": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJpg.jpg",
+            "1682388131076688:2008141": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJpg.jpg",
+            "1682388131089002:2008156": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJpg.jpg",
+            "1682388131102206:2008171": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJpg.jpg",
+            "1682388131115086:2008186": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJpg.jpg",
+            "1682388131128163:2008201": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJpg.jpg",
+            "1682388131909094:2008340": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDGwrMVxAerDW//system//emergencyFiles/emergencyJs.js",
+            "1682391351339149:2727776": "/Users/josephhastings/Xcrosswalk/OnlyTeeth0202.fbx",
+            "1682391354096626:2728512": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354131433:2728532": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354163574:2728552": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354195174:2728572": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354226459:2728592": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354258512:2728612": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354291866:2728632": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354324078:2728652": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354355283:2728672": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354388759:2728692": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354421006:2728712": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354456409:2728732": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354487247:2728752": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391354519569:2728772": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682391355109884:2728959": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle/materials/textures/white.png",
+            "1682393515367301:3378981": "/Users/josephhastings/Xcrosswalk/OnlyTeeth0202.fbx",
+            "1682393518783004:3379933": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518814106:3379953": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518844262:3379973": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518874557:3379993": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518906451:3380013": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518937813:3380033": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518968561:3380053": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393518999004:3380073": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519031486:3380093": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519064924:3380113": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519097473:3380133": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519131413:3380153": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519163408:3380173": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519196762:3380193": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682393519800193:3380382": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle/materials/textures/white.png",
+            "1682399266585581:4804288": "/Users/josephhastings/Xcrosswalk/tatsTest.obj",
+            "1682399266669547:4804318": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682399266711004:4804340": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682399321086947:4822155": "/Users/josephhastings/Xcrosswalk/tatsTest.obj",
+            "1682399321157984:4822187": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682399321193371:4822213": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudiocHQzqRPChkQC//system//emergencyFiles/emergencyMesh.mesh",
+            "1682412921930046:6961488": "/Users/josephhastings/Xcrosswalk/tattysFaceBet0001.png",
+            "1682413533323691:7066124": "/Users/josephhastings/Xcrosswalk/tattysFaceZeroComp0001.png",
+            "1682444520191397:18141968": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/lips texture.jpg",
+            "1682444520199444:18141978": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/eyeshadow texture.jpg",
+            "1682444520207402:18141988": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/blush texture.jpg",
+            "1682444520215261:18141998": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/eyeliner texture.jpg",
+            "1682444520229668:18142010": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/lashes.jpg",
+            "1682444520250693:18142020": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/lipsGloss.jpg",
+            "1682444520264805:18142030": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/blush.jpg",
+            "1682444520281911:18142040": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/shadows1.jpg",
+            "1682444520300342:18142050": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/shadows2.jpg",
+            "1682444520319580:18142060": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/lips.jpg",
+            "1682444520329330:18142070": "/Users/josephhastings/Audio Classification/Public/3D Makeup Resources/Textures/Opacity Masks/facemeshMouth.jpg",
+            "1682444521193397:18142233": "/Users/josephhastings/Audio Classification/Public/OnlyTeeth0202 3.fbx",
+            "1682444526329477:18145268": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526359387:18145280": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526389045:18145292": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526417837:18145304": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526447098:18145316": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526476146:18145328": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526505701:18145340": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526534583:18145352": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526564026:18145364": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526593747:18145376": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526622303:18145388": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526651531:18145400": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526681005:18145412": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444526710103:18145424": "/Users/josephhastings/Library/Caches/Snap/Lens Studio/temp/StudioDLXvQIiUDOGA//system//emergencyFiles/emergencyMesh.mesh",
+            "1682444527422187:18145477": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle/materials/textures/white.png",
+            "1682444529700764:18146372": "/Users/josephhastings/Audio Classification/Public/white 4.png",
+            "1682444529710393:18146383": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/full_no_eye.pvr",
+            "1682444529712932:18146391": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/full_no_lips.pvr",
+            "1682444529714897:18146399": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/nose.pvr",
+            "1682444529716925:18146407": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/cheeks.pvr",
+            "1682444529718879:18146415": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/lips.pvr",
+            "1682444529721070:18146423": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/full_no_eye_lips.pvr",
+            "1682444529723176:18146431": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/full.pvr",
+            "1682444529725210:18146439": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/forehead_1.pvr",
+            "1682444529727178:18146447": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/eye_1.pvr",
+            "1682444529729124:18146455": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/forehead_2.pvr",
+            "1682444529731020:18146463": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/eye_2.pvr",
+            "1682444529733027:18146471": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/eye_3.pvr",
+            "1682444529734936:18146479": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/forehead_3.pvr",
+            "1682444529736900:18146487": "/Users/josephhastings/Audio Classification/Public/Face Mask Opacity Textures Resources/eye_4.pvr"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1681294594151935:1887785"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}
